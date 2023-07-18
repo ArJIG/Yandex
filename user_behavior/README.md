@@ -13,4 +13,4 @@
 -  номер эксперимента: 246 и 247 — контрольные группы, а 248 — экспериментальная.
 
 ## Используемые библиотеки
-*pandas, numpy, matplotlib, seaborn, scipy, plotly*
+*pandas, numpy, matplotlib, scipy, plotly, datetime*
