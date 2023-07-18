@@ -71,6 +71,8 @@ final_ab_participants.csv — таблица участников тестов.
 
 # Исследование базы данных сервиса для чтения книг по подписке
 
+![bd]([https://github.com/ovalentinka/Data_analyst/blob/02637d04843ceffe28d0538b4c287128a376f325/sql_border2880_1628581406.png](https://github.com/ArJIG/Yandex/blob/main/screen/Image.png))
+
 ## Задача
 
 С помощью SQL запросов ответить на следующие вопросы:
