@@ -22,4 +22,4 @@
 — количество посадочных мест.
 
 ## Используемые библиотеки
-*pandas, numpy, matplotlib, seaborn, plotly.express*
+*pandas, numpy, plotly, matplotlib, seaborn, plotly.express, folium*
