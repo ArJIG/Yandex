@@ -9,7 +9,6 @@
 
 ## Данные
 
-![bd](https://github.com/ovalentinka/Data_analyst/blob/02637d04843ceffe28d0538b4c287128a376f325/sql_border2880_1628581406.png)
 ![bd](https://github.com/ArJIG/Yandex_Practicum/blob/6b2d59b4978279197896a4a6355dff2b6db566df/screen/SQL.png)
 
 * acquisition (cодержит информацию о покупках одних компаний другими);
