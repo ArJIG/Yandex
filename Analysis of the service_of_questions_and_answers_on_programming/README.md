@@ -9,7 +9,7 @@
 
 ## Данные
 
-![bd](https://github.com/ArJIG/Yandex_Practicum/blob/6b2d59b4978279197896a4a6355dff2b6db566df/screen/SQL.png)
+![bd](https://github.com/ArJIG/Yandex_Practicum/blob/3e1ba6bb30c1de859d194207a71ddbf3c5655336/screen/sql_advanced.png)
 
 * acquisition (cодержит информацию о покупках одних компаний другими);
 * company (cодержит информацию о компаниях-стартапах);
