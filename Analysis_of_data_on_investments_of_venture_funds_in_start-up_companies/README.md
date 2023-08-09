@@ -10,7 +10,7 @@
 ## Данные
 
 ![bd](https://github.com/ovalentinka/Data_analyst/blob/02637d04843ceffe28d0538b4c287128a376f325/sql_border2880_1628581406.png)
-![bd](https://github.com/ArJIG/Yandex/blob/6f0db9e9356482e9953420e12594642a35d74c0e/screen/Image.png)
+![bd](https://github.com/ArJIG/Yandex/blob/6f0db9e9356482e9953420e12594642a35d74c0e/screen/sql.png)
 
 * acquisition (cодержит информацию о покупках одних компаний другими);
 * company (cодержит информацию о компаниях-стартапах);
